@@ -15,5 +15,5 @@ pip install -r requirements.txt
 ```
 python main.py [path to your data video or folder of videos] --sample-rate [insert sample rate]
 ```
-This script takes a long time to run and progress bars don't really work since there's no way to tell how long the video is before you iterate through it (RIP tqdm)
-Long story short, be patient when this thing runs
+This script takes a long time to run and progress bars don't really work since there's no way to tell how long the video is before you iterate through it (RIP tqdm).
+Long story short, be patient when this thing runs.
