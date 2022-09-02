@@ -2,6 +2,7 @@
 **THIS REPOSITORY IS NOT ACTIVELY MAINTAINED**
 ## Requirements:
 - Python (I used Python 3.8, you probably can get away with newer versions)
+- pip
 
 ## Installation
 Run the following command, hopefully within a virtual or conda environment to save yourself the headache
